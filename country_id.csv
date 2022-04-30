@@ -1,0 +1,194 @@
+code, IDCNTRY, Country
+ARG, 32, Argentina
+ARM, 51, Armenia
+AUS, 36, Australia
+AUT, 40, Austria
+BHR, 48, Bahrain
+BSQ, 3724, Spain
+BFL, 956, Belgium
+BFR, 957, Belgium
+BEL, 56, Belgium
+BLZ, 84, Belize
+BWA, 72, Botswana
+BGR, 100, Bulgaria
+CAN, 124, Canada
+COT, 9132, Canada
+CQU, 9133, Canada
+CAB, 9134, Canada
+CBC, 9135, Canada
+CNS, 9136, Canada
+CHL, 152, Chile
+TWN, 158, Taiwan
+COL, 170, Colombia
+CYP, 196, Cyprus
+CZE, 203, Czech Republic
+CSK, 200, Czech Republic
+DNK, 208, Denmark
+EGY, 818, Egypt
+ENG, 926, United Kingdom
+GBR, 826, United Kingdom
+EST, 233, Estonia
+FIN, 246, Finland
+FRA, 250, France
+GEO, 268, Georgia
+DEU, 276, Germany
+GHA, 288, Ghana
+GRC, 300, Greece
+HKG, 344, Hong Kong
+HUN, 348, Hungary
+ISL, 352, Iceland
+IS5, 9352, Iceland
+UIN, 11800, United States of America
+IDN, 360, Indonesia
+IRN, 364, Iran
+IRL, 372, Ireland
+ISR, 376, Israel
+ITA, 380, Italy
+JPN, 392, Japan
+JOR, 400, Jordan
+KOR, 410, Korea
+KWT, 414, Kuwait
+LVA, 428, Latvia
+LBN, 422, Lebanon
+LTU, 440, Lithuania
+LUX, 442, Luxembourg
+MKD, 807, North Macedonia
+MYS, 458, Malaysia
+MDA, 498, Moldova
+MAR, 504, Morocco
+NLD, 528, Netherlands
+NZL, 554, New Zealand
+NOR, 578, Norway
+NO5, 9578, Norway
+PSE, 275, Palestine
+PHL, 608, Philippines
+POL, 616, Poland
+PRT, 620, Portugal
+QAT, 634, Qatar
+ROM, 642, Romania
+RUS, 643, Russia
+RUM, 6431, Russia
+SAU, 682, Saudi Arabia
+SCO, 927, Scotland
+SCG, 891, Serbia
+SGP, 702, Singapore
+SVK, 703, Slovak Republic
+SLV, 222, El Salvador
+SVN, 705, Slovenia
+ZAF, 710, South Africa
+ZA4, 4710, South Africa
+ESP, 724, Spain
+ECT, 7241, Spain
+SWE, 752, Sweden
+SE3, 3752, Sweden
+CHE, 756, Switzerland
+SYR, 760, Syria
+THA, 764, Thailand
+TTO, 780, Trinidad And Tobago
+TUN, 788, Tunisia
+TUR, 792, Turkey
+USA, 840, United States
+YEM, 887, Yemen
+MLT, 470, Malta
+UMN, 12700, United States of America
+UMA, 12500, United States of America
+OMN, 512, Oman
+UKR, 804, Ukraine
+DZA, 12, Algeria
+KAZ, 398, Kazakhstan
+MNG, 496, Mongolia
+BIH, 70, Bosnia and Herzegovina
+ADU, 7841, United Arab Emirates
+BRA, 76, Brazil
+MEX, 484, Mexico
+GMX, 48401, Mexico
+TMX, 48402, Mexico
+MXT, 48499, Mexico
+DOM, 214, Dominican Republic
+GTM, 320, Guatemala
+LIE, 438, Liechtenstein
+PRY, 600, Paraguay
+PO2, 6162, Poland
+NO1, 57891, Norway
+NO2, 57892, Norway
+NO3, 57893, Norway
+NOM, 57894, Norway
+AAD, 7842, United Arab Emirates
+ARE, 784, United Arab Emirates
+AZE, 31, Azerbaijan
+EAN, 72401, Spain 
+ECN, 72404, Spain
+FI7, 7246, Finland
+HND, 340, Honduras
+HRV, 191, Croatia
+MA6, 6504, Morocco
+MLN, 9470, Malta
+NIR, 928, Northern Ireland
+NLN, 9528, The Netherlands
+NZ1, 7554, New Zealand
+SG7, 7702, Singapore 
+SRB, 688, Serbia
+UAL, 10400, United States of America
+UCA, 11100, United States of America
+UCO, 10800, United States of America 
+UCT, 10900, United States of America
+UFL, 11200, United States of America
+UNC, 13700, United States of America
+YE6, 6887, Yemen
+001, 99901, Country 001
+002, 99902, Country 002
+003, 99903, Country 003
+004, 99904, Country 004
+005, 99905, Country 005
+006, 99906, Country 006
+007, 99907, Country 007
+008, 99908, Country 008
+009, 99909, Country 009
+010, 99910, Country 010
+ABA, 32001, Argentina
+UK1, 8261, United Kingdom
+ROU, 9642, Romania
+MDF, 48411, Mexico
+MET, 48420, Mexico
+MJA, 48412, Mexico
+MNL, 48415, Mexico
+MQR, 48416, Mexico
+MSL, 48417, Mexico
+MTM, 48418, Mexico
+TDF, 48421, Mexico
+TJA, 48422, Mexico
+TNL, 48425, Mexico
+TQR, 48426, Mexico
+TSL, 48427, Mexico
+TTM, 48428, Mexico
+CRI, 188, Costa Rica
+NIC, 558, Nicaragua
+PER, 604, Peru
+CNL, 9137, Canada
+CSH, 156001, China
+RTR, 643002, Russia
+NO4, 5784, Norway
+NO8, 5788, Norway 
+DNW, 276001, Germany
+EMA, 724005, Spain
+MAC, 446, Macao
+RMO, 643001, Russia
+ZA5, 7105, South Africa 
+DN3, 208001, Denmark 
+EMB, 724004, Spain
+ZGT, 710003, South Africa 
+VNM, 704, Vietnam
+URY, 858, Uruguay
+ECU, 218, Ecuador
+ALB, 8, Albania
+MNE, 499, Montenegro
+PAK, 586, Pakistan
+XKX, 411, Kosovo
+ZWC, 710004, South Africa 
+BFA, 854, Burkina Faso
+ETH, 231, Ethiopia
+IND, 356, India
+KEN, 404, Kenya
+RWA, 646, Rwanda
+UGA, 800, Uganda
+UZB, 860, Uzbekistan
