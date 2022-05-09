@@ -7,6 +7,6 @@ To read more about [TIMMS](https://timss2019.org/international-database/?_gl=1*e
 
 To know me or connect with me. Here is my [linkedin profile](https://www.linkedin.com/in/antsa-tantely-rakotondrafara/).
 
-All my preprocessing  are done using colab. If you want to reproduce what I have done, just follow the notebook. To view my result in a dashborad [click here](https://datastudio.google.com/reporting/785bef4b-8c1e-48cd-87a8-c76372f4a0d7).
+All my preprocessing  are done using colab. If you want to reproduce what I have done, just follow the notebook. To view my result in a dashborad [click here](https://datastudio.google.com/reporting/785bef4b-8c1e-48cd-87a8-c76372f4a0d7). Link to the Medium blog post is [here](https://medium.com/@antsa_82380/how-to-use-machine-learning-in-google-colab-to-analyze-the-achievement-in-timms-3c383ea01742).
 
 Special thanks to all people who make DSI happen! 
